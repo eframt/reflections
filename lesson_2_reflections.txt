@@ -1,0 +1,7 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+- To set the respository with .git files to keep track of changes
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- It allows to change only those files you want to change in a commit so you can keep track of the specific information you update every time
